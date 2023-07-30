@@ -1,6 +1,6 @@
 # 基于Java的宠物网站系统设计与实现
 
-> 运行过程中的问题，可以咨询作者：lengqin1024（微信）
+> 运行过程中的问题，可以咨询作者。
 
 ### 演示地址
 
@@ -73,12 +73,12 @@ npm run dev
 
 首页
 
-![]()
+![](https://raw.githubusercontent.com/geeeeeeeek/java_pet/master/server/upload/image/a.png)
 
 
 后台页面
 
-![]()
+![](https://raw.githubusercontent.com/geeeeeeeek/java_pet/master/server/upload/image/b.png)
 
 
 
@@ -89,7 +89,7 @@ npm run dev
 - 粉丝关注功能
 - 支付功能
 
-### 技术咨询
+### 付费咨询
 
 微信：lengqin1024
 
